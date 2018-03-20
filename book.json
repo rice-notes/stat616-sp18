@@ -1,0 +1,16 @@
+{
+    "root": ".",
+    "title": "Rice University STAT616: Advanced Statistical Methods",
+    "description": "Notes from the Spring 2018 offering of STAT616 at Rice University.",
+    "author": "Gabriel Vacaliuc",
+    "plugins": [
+        "katex",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+          "base": "https://github.com/rice-notes/stat616-sp18/tree/master/src",
+          "label": "edit"
+        }
+    }
+}
