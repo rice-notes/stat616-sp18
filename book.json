@@ -1,5 +1,5 @@
 {
-    "root": ".",
+    "root": "src",
     "title": "Rice University STAT616: Advanced Statistical Methods",
     "description": "Notes from the Spring 2018 offering of STAT616 at Rice University.",
     "author": "Gabriel Vacaliuc",
