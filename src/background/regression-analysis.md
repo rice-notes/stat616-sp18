@@ -32,4 +32,4 @@ N(0, \sigma^2)$$. $\epsilon$ represents the random error in our observations.
 Note that we assume that our error is i.i.d normal, or that:
 * the errors are normal ($$\epsilon_i \sim N(0, \sigma^2)$$)
 * the errors are independent
-* the errors have variance $$\sigma^2$$
+* the errors are are homoescadastic and have variance $$\sigma^2$$
